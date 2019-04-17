@@ -1,68 +1,68 @@
-# Workload consolidation at different levels of the competing stack
+# Intel Industrial Workload Consolidation Workshop
 
+Welcome to the Intel Industrial Workload Consolidation Workshop. In this workshop, we will explore Industry 4.0 technologies through lectures and hands on labs. By the end of the workshop, you should have a solid understanding of different Industry 4.0 technologies and have some working ideas of how to implement them in your place of business.
 
-## Hypervisors
+***We want to give a big thank you to the Illinois Technology Association for providing the venue and the people to setup.***
 
-Workload consolidation is a generalized statement that can encompass many ideas about interacting computer systems. 
-Even though the implementation of a system that has multiple consolidated workloads can vary, the goal of workload consolidation is to achieve a higher overall return on investment in computer equipment, as well as the people in systems needed to manage them.
+## How Do I Use the Lab Material
 
-In this workshop we're going to look at four different levels of workload consolidation:
-* Type 1 hypervisors - hardware-based virtualization
-* Type 2 hypervisors - operating system level virtualization
-* Containerization - application level virtualization
-* Networking level application sharing
+The links below will guide the workshop attendee through the slides, videos and labs in the Intel Industrial IoT Workshop.
 
-## What is a Hypervisor?
-Computer virtualization is changing IT/OT from a job using physical devices to a profession using logical devices. A hypervisor is a lightweight piece of software that maps physical devices to logical devices. It allows multiple logical devices to share a single physical or logical device.
+## Chicago Intel Workload Consolidation Workshop Agenda
+#### April 30th - Day 1
+* **Intel Strategy and Developer Program for the IIoT**
+  - Slides - [Deck Strategy and Developer Program for the IIoT ](./presentations/Intel-Strategy-and-Dev-Program-for-IIoT.pdf)
+  - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
 
-### Type 1 Hypervisors - hardware-based virtualization
-These hypervisors run directly on the bare metal hardware and coordinate access to that hardware two operating systems which run on top of it. The term hypervisor is an alternative to the word supervisor which in the early days of computing was a common term for the operating system.
+* **Case Studies for Real-Time Systems in Industry**
+  - Slides - Placeholder
+  - Labs - Placeholder
 
-### Type 2 Hypervisors - operating system level virtualization
-These hypervisor is run on top of a operating system and manage control of host operating system resources to virtualized operating system resources. Examples of this include VMware Workstation™, Virtualbox™, Parallels Desktop for Mac™ and QEMU.
+* **Virtualization**
+  - Slides - Placeholder
+  - Video - Placeholder
 
-Virtualizing all of the resources of an operating system can be an extremely expensive task and in the initial days of type 2 hypervisor they were known for their inefficient performance. 
+* **Real-Time Operating Systems**
+  - Slides - Placeholder
+  - Lab - Placeholder
+  - Video - Placeholder
 
-**Intel® Virtualization Technology (Intel® VT)** builds virtualization technology that allows type 2 hypervisor to directly access type one level hardware resources.
+* **Real-Time Networking and Time-Senitive Networking**
+  - Slides - Placeholder
+  - Lab - Placeholder
 
-Intel® Virtualization Technology (Intel® VT) are hardware and software specific extensions that enabled the virtualization of CPU resources, GPU resources, memory virtualization and IO resources.
+* Industrial Protocols
+  - Slides - Placeholder
+  - Lab - Placeholder
 
-#### CPU virtualization
-CPU virtualization features enable faithful abstraction of the full prowess of Intel® CPU to a virtual machine (VM). All software in the VM can run without any performance or compatibility hit, as if it was running natively on a dedicated CPU. Live migration from one Intel® CPU generation to another, as well as nested virtualization, is possible.
+* Predictive analytics
+    - Slides - Placeholder
+    - Lab - Placeholder
 
-#### Memory virtualization 
-Memory virtualization features allow abstraction isolation and monitoring of memory on a per virtual machine (VM) basis. These features may also make live migration of VMs possible, add to fault tolerance, and enhance security. Example features include direct memory access (DMA) remapping and extended page tables (EPT), including their extensions: accessed and dirty bits, and fast switching of EPT contexts.
+#### May 1st - Day 2
 
+  * **Smart Video/Computer Vision Tools Overview**
+    - Slides - [Introduction to Smart Video Tools](https://github.com/intel-iot-devkit/smart-video-workshop/presentations/01-Introduction-to-Intel-Smart-Video-Tools.pdf)
 
-#### I/O virtualization
-I/O virtualization features facilitate offloading of multi-core packet processing to network adapters as well as direct assignment of virtual machines to virtual functions, including disk I/O. Examples include Intel® Virtualization Technology for Directed I/O (VT-d), Virtual Machine Device Queues (VMDQ), Single Root I/O Virtualization (SR-IOV, a PCI-SIG standard), and Intel® Data Direct I/O Technology (Intel® DDIO) enhancements.
-Intel® Graphics Virtualization Technology (Intel® GVT) allows VMs to have full and/or shared assignment of the graphics processing units (GPU) as well as the video transcode accelerator engines integrated in Intel system-on-chip products. It enables usages such as workstation remoting, desktop-as-a-service, media streaming, and online gaming.
+  * **Introduction to the Insights Platform**
+    - Slides - Placeholder
+    - Lab - Placeholder
 
+  * Overview of the Developer Cloud
+    - Slides - Placeholder
+    - Labs - Placeholder
 
-#### Virtualization of Security and Network functions
-Virtualization of Security and Network functions enables transformation of traditional network and security workloads into compute. Virtual functions can be deployed on standard high volume servers anywhere in the data center, network nodes, or cloud, and smartly co-located with business workloads. Examples of technologies making it happen include Intel® QuickAssist Technology (Intel® QAT) and the Data Plane Development Kit (DPDK).
+  * **Training a Deep Learning Model**
+    - Slides - [Training a Deep Learning Model](https://github.com/intel-iot-devkit/smart-video-workshop/presentations/DL_training_model.pdf)
+    - Lab - [Training a Deep Learning Model](https://github.com/intel-iot-devkit/smart-video-workshop/dl-model-training/README.md)
 
-#### Containerization
-Containerization is rapidly becoming an adopted it custom thanks to Docker, Kibernetes and other containerization technologies. It allows your organization the freedom to build, manage and secure applications without fear that their environment will change. It allows the applications to be tested in a known state and environment and deployed in the same conditions.
+  * **Basic End to End Object Detection Inference Example**
+    - Slides - [Basic End to End Object Detection Example](https://github.com/intel-iot-devkit/smart-video-workshop/presentations/02-03_Basic-End-to-End-Object-Detection-Example.pdf)
+    - Lab - [Basic End to End Object Detection Example](https://github.com/intel-iot-devkit/smart-video-workshop/object-detection/README.md)
+    - Lab - [Tensor Flow example](https://github.com/intel-iot-devkit/smart-video-workshop/advanced-video-analytics/tensor_flow.md)
 
-Containerization technologies will reduce testing and deployment expenses because testing and deployment are done in the same containerized environment.
+  * **Hardware Heterogeneity**
+    - Lab - [Hardware Heterogeneity](https://github.com/intel-iot-devkit/smart-video-workshop/hardware-heterogeneity/README.md)
 
-Containers share the resources of the host operating system but they allow the application to run with limited virtualized access to the underlying operating system. 
-
-Containers also allow workloads to be migrated to new hardware and for the technicians to know that it will run exactly the same on the new hardware.
-
-Intel support the number of containerization projects including Clear Linux(R).
-
-In the next Lab we will use Docker containers to deploy The Foundry Edge X services and create. 
-
-#### Network level resource sharing
-There are many ways of partitioning applications across networked architectures. Some of the more popular patterns include the micro-service architecture, fog enabled applications and the client/server model. All cloud providers have APIs to scale applications across their enterprise. 
-
-In this lab, we will take a look at Edge X Foundry which is a vendor-neutral, open source, loosely-coupled microservices framework providing the choice to plug and play from a growing ecosystem of available 3rd party offerings or augment with your own proprietary innovations. EdgeX focuses on Industrial and business IoT solutions.
- 
-# What is Next?
-Next we will install the EdgeX Foundry service architecture and begin using it to connect devices on our network.
-
-Please, continue to this link and begin working on the lab.
-
-https://docs.edgexfoundry.org/Ch-GettingStartedUsers.html
+  * **HW Acceleration with Intel® Movidius™ Neural Compute Stick**
+    - Lab - [HW Acceleration with Intel® Movidius™ Neural Compute Stick](https://github.com/intel-iot-devkit/smart-video-workshop/HW-Acceleration-with-Movidious-NCS/README.md)

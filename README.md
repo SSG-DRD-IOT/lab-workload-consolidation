@@ -25,27 +25,6 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **2:15-3:30pm**|OPC-UA over TSN Lab|
 | **3:30-4:00pm**|Questions and Answers|
 | **4:00-4:30pm**|Closing|
-
-## Schedule - Day 2
-||May 1st|
-|---|---|
-|**8:30-9:00am**|Doors Open for Badge Pickup |
-| **9:00-9:45am**|Smart Video/Computer Vision Tools Overview |
-| **9:45-10:30am**|OpenVINO(TM) Lab|
-| **10:30-11:00am**|Introduction to the Insights Platform|
-| **11:00-11:30am**|Computer Vision in the Developer Cloud|
-| **11:00-12:00pm**|Computer Vision in the Cloud Labs|
-| **12:00-1:00pm**|Lunch|
-| **1:00-2:00pm**|Computer Vision in the Cloud Lab (cont.)|
-| **1:00-2:00pm**|Training a Deep Learning Model|
-| **2:00-2:10pm**|Basic End to End Object Detection Inference Example|
-| **2:15-2:30pm**|Break|
-| **2:30-3:30pm**|Objection Detection Lab|
-| **3:30-4:00pm**|Hardware Heterogeneity and Intel(r) Neural Computer Stick|
-| **4:00-4:30pm**|Questions and Closing|
-
-
-
 ## Workshop Presentations, Labs and Content
 #### April 30th - Day 1
 * **Intel Strategy and Developer Program for Industrial Workload Consolidation**
@@ -76,6 +55,25 @@ The links below will guide the workshop attendee through the slides, videos and 
 * Predictive analytics
     - Slides - Placeholder
     - Lab - Placeholder
+
+## Schedule - Day 2
+||May 1st|
+|---|---|
+|**8:30-9:00am**|Doors Open for Badge Pickup |
+| **9:00-9:45am**|Smart Video/Computer Vision Tools Overview |
+| **9:45-10:30am**|OpenVINO(TM) Lab|
+| **10:30-11:00am**|Introduction to the Insights Platform|
+| **11:00-11:30am**|Computer Vision in the Developer Cloud|
+| **11:00-12:00pm**|Computer Vision in the Cloud Labs|
+| **12:00-1:00pm**|Lunch|
+| **1:00-2:00pm**|Computer Vision in the Cloud Lab (cont.)|
+| **1:00-2:00pm**|Training a Deep Learning Model|
+| **2:00-2:10pm**|Basic End to End Object Detection Inference Example|
+| **2:15-2:30pm**|Break|
+| **2:30-3:30pm**|Objection Detection Lab|
+| **3:30-4:00pm**|Hardware Heterogeneity and Intel(r) Neural Computer Stick|
+| **4:00-4:30pm**|Questions and Closing|
+
 
 #### May 1st - Day 2
 

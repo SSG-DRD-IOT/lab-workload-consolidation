@@ -8,10 +8,29 @@ Welcome to the Intel Industrial Workload Consolidation Workshop. In this worksho
 
 The links below will guide the workshop attendee through the slides, videos and labs in the Intel Industrial IoT Workshop.
 
+## Schedule
+||April 30th - Day 1||May 1st - Day 2|
+|---|---|---|---|
+|**8:00-9:00am**|Doors Open for Badge Pickup |**8:00-9:00am**| Doors Open for Badge Pickup |
+| **9:00-9:30am**|Intel Strategy and Developer Program for Industrial Workload Consolidation  || **9:30-10am** - Case Studies for Real-Time Systems in Industry  |   |
+| **9:30-10:00am**|Case Studies for Real-Time Systems in Industry| **9:30-10am**|   |
+| **9:00-9:30am**|Break| **9:30-10am**|   |
+| **9:00-9:30am**|Real-Time Operating Systems| **9:30-10am**|   |
+| **9:00-9:30am**|Lunch| **9:30-10am**|   |
+| **9:00-9:30am**|Real-Time Networking and Time Sensitive Networking| **9:30-10am**|   |
+| **9:00-9:30am**|Lab| **9:30-10am**|   |
+| **9:00-9:30am**|Industrial Protocols| **9:30-10am**|   |
+| **9:00-9:30am**|Lab| **9:30-10am**|   |
+| **9:00-9:30am**|Questions and Answers| **9:30-10am**|   |
+| **9:00-9:30am**|Closing| **9:30-10am**|   |
+
+
+
+
 ## Chicago Intel Workload Consolidation Workshop Agenda
 #### April 30th - Day 1
-* **Intel Strategy and Developer Program for the IIoT**
-  - Slides - [Deck Strategy and Developer Program for the IIoT ](./presentations/Intel-Strategy-and-Dev-Program-for-IIoT.pdf)
+* **Intel Strategy and Developer Program for Industrial Workload Consolidation**
+  - [Slides](./presentations/01-Intel-Developer-Program-and-Industrial-IoT-Strategy.pdf)
   - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
 
 * **Case Studies for Real-Time Systems in Industry**
@@ -19,20 +38,20 @@ The links below will guide the workshop attendee through the slides, videos and 
   - Labs - Placeholder
 
 * **Virtualization**
-  - Slides - Placeholder
+  - [Slides](./presentations/02-Virtualization.pdf)
   - Video - Placeholder
 
 * **Real-Time Operating Systems**
-  - Slides - Placeholder
+  - [Slides](./presentations/03-Real-Time-Systems.pdf)
   - Lab - Placeholder
   - Video - Placeholder
 
-* **Real-Time Networking and Time-Senitive Networking**
-  - Slides - Placeholder
+* **Real-Time Networking and Time Sensitive Networking**
+  - [Slides](./presentations/04-Time-Sensitive-Networking.pdf)
   - Lab - Placeholder
 
 * Industrial Protocols
-  - Slides - Placeholder
+  - [Slides](./presentations/05-Industrial-Protocols.pdf)
   - Lab - Placeholder
 
 * Predictive analytics

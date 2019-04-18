@@ -19,11 +19,12 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **11:00-12:00pm**|Lab|
 | **12:00-1:00pm**|Lunch|
 | **1:00-1:30pm**|Real-Time Networking and Time Sensitive Networking|
-| **9:00-9:30pm**|Lab|
-| **9:00-9:30pm**|Industrial Protocols|
-| **9:00-9:30pm**|Lab|
-| **9:00-9:30pm**|Questions and Answers|
-| **9:00-9:30pm**|Closing|
+| **1:00-2:00pm**|Lab|
+| **2:00-2:30pm**|Industrial Protocols|
+| **2:00-2:15pm**|Break|
+| **2:15-3:30pm**|Lab|
+| **3:30-4:00pm**|Questions and Answers|
+| **4:00-4:30pm**|Closing|
 
 
 

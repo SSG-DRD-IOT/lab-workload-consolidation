@@ -9,20 +9,21 @@ Welcome to the Intel Industrial Workload Consolidation Workshop. In this worksho
 The links below will guide the workshop attendee through the slides, videos and labs in the Intel Industrial IoT Workshop.
 
 ## Schedule
-||April 30th - Day 1||May 1st - Day 2|
-|---|---|---|---|
-|**8:00-9:00am**|Doors Open for Badge Pickup |**8:00-9:00am**| Doors Open for Badge Pickup |
-| **9:00-9:30am**|Intel Strategy and Developer Program for Industrial Workload Consolidation  || **9:30-10am** - Case Studies for Real-Time Systems in Industry  |   |
-| **9:30-10:00am**|Case Studies for Real-Time Systems in Industry| **9:30-10am**|   |
-| **9:00-9:30am**|Break| **9:30-10am**|   |
-| **9:00-9:30am**|Real-Time Operating Systems| **9:30-10am**|   |
-| **9:00-9:30am**|Lunch| **9:30-10am**|   |
-| **9:00-9:30am**|Real-Time Networking and Time Sensitive Networking| **9:30-10am**|   |
-| **9:00-9:30am**|Lab| **9:30-10am**|   |
-| **9:00-9:30am**|Industrial Protocols| **9:30-10am**|   |
-| **9:00-9:30am**|Lab| **9:30-10am**|   |
-| **9:00-9:30am**|Questions and Answers| **9:30-10am**|   |
-| **9:00-9:30am**|Closing| **9:30-10am**|   |
+||April 30th - Day 1|
+|---|---|
+|**8:00-9:00am**|Doors Open for Badge Pickup |
+| **9:00-9:30am**|Intel Strategy and Developer Program for Industrial Workload Consolidation  |
+| **9:30-10:00am**|Case Studies for Real-Time Systems in Industry|
+| **10:00-10:15am**|Break|
+| **10:15-11:00am**|Real-Time Operating Systems|
+| **11:00-12:00pm**|Lab|
+| **12:00-1:00pm**|Lunch|
+| **1:00-1:30pm**|Real-Time Networking and Time Sensitive Networking|
+| **9:00-9:30pm**|Lab|
+| **9:00-9:30pm**|Industrial Protocols|
+| **9:00-9:30pm**|Lab|
+| **9:00-9:30pm**|Questions and Answers|
+| **9:00-9:30pm**|Closing|
 
 
 

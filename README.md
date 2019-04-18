@@ -16,20 +16,36 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **9:30-10:00am**|Case Studies for Real-Time Systems in Industry|
 | **10:00-10:15am**|Break|
 | **10:15-11:00am**|Real-Time Operating Systems|
-| **11:00-12:00pm**|Lab|
+| **11:00-12:00pm**|Real-Time Operating Systems Labs|
 | **12:00-1:00pm**|Lunch|
 | **1:00-1:30pm**|Real-Time Networking and Time Sensitive Networking|
-| **1:00-2:00pm**|Lab|
+| **1:00-2:00pm**|Real-Time Networking Labs|
 | **2:00-2:30pm**|Industrial Protocols|
 | **2:00-2:15pm**|Break|
-| **2:15-3:30pm**|Lab|
+| **2:15-3:30pm**|OPC-UA over TSN Lab|
 | **3:30-4:00pm**|Questions and Answers|
 | **4:00-4:30pm**|Closing|
 
+||May 1st - Day 2|
+|---|---|
+|**8:30-9:00am**|Doors Open for Badge Pickup |
+| **9:00-9:45am**|Smart Video/Computer Vision Tools Overview |
+| **9:45-10:30am**|OpenVINO(TM) Lab|
+| **10:30-11:00am**|Introduction to the Insights Platform|
+| **11:00-11:30am**|Computer Vision in the Developer Cloud|
+| **11:00-12:00pm**|Computer Vision in the Cloud Labs|
+| **12:00-1:00pm**|Lunch|
+| **1:00-2:00pm**|Computer Vision in the Cloud Lab (cont.)|
+| **1:00-2:00pm**|Training a Deep Learning Model|
+| **2:00-2:10pm**|Basic End to End Object Detection Inference Example|
+| **2:15-2:30pm**|Break|
+| **2:30-3:30pm**|Objection Detection Lab|
+| **3:30-4:00pm**|Hardware Heterogeneity and Intel(r) Neural Computer Stick|
+| **4:00-4:30pm**|Questions and Closing|
 
 
 
-## Chicago Intel Workload Consolidation Workshop Agenda
+## Workshop Presentations, Labs and Content
 #### April 30th - Day 1
 * **Intel Strategy and Developer Program for Industrial Workload Consolidation**
   - [Slides](./presentations/01-Intel-Developer-Program-and-Industrial-IoT-Strategy.pdf)

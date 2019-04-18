@@ -8,8 +8,8 @@ Welcome to the Intel Industrial Workload Consolidation Workshop. In this worksho
 
 The links below will guide the workshop attendee through the slides, videos and labs in the Intel Industrial IoT Workshop.
 
-## Schedule
-||April 30th - Day 1|
+## Schedule - Day 1
+||April 30th|
 |---|---|
 |**8:00-9:00am**|Doors Open for Badge Pickup |
 | **9:00-9:30am**|Intel Strategy and Developer Program for Industrial Workload Consolidation  |
@@ -26,7 +26,8 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **3:30-4:00pm**|Questions and Answers|
 | **4:00-4:30pm**|Closing|
 
-||May 1st - Day 2|
+## Schedule - Day 2
+||May 1st|
 |---|---|
 |**8:30-9:00am**|Doors Open for Badge Pickup |
 | **9:00-9:45am**|Smart Video/Computer Vision Tools Overview |

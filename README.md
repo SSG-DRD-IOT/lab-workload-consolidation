@@ -47,13 +47,15 @@ The links below will guide the workshop attendee through the slides, videos and 
 
 -   **Real-Time Networking and Time Sensitive Networking**
     -   [Slides](./presentations/04-Time-Sensitive-Networking.pdf)
-    -   Lab - Placeholder
+    -  Lab - [Without Time-Aware Traffic Scheduling or LaunchTime](./tsn_lab/README.md)
+    -  Lab - [Time-Aware Traffic Scheduling Enabled](./tsn_lab/README.md)
+    -  Lab - [Time-Aware Traffic Scheduling and LaunchTime Enabled](./tsn_lab/README.md)
 
 -   Industrial Protocols
     -   [Slides](./presentations/05-Industrial-Protocols.pdf)
-    -   Lab - Placeholder
+    -   [Lab - Placeholder](./tsn_lab/README.md)
 
-### Day 1 - Extra Resources
+#### Day 1 - Extra Resources
 - Introduction
   - [Intel Industrial Applications Webpage](https://www.intel.com/content/www/us/en/internet-of-things/industrial-iot/overview.html)
 - Virtualization

@@ -12,6 +12,8 @@ through.
 * IEEE 802.1Qbv Demo 3 Scenario 2 Time-Aware Traffic Scheduling Enabled
 * IEEE 802.1Qbv Demo 3 Scenario 3 Time-Aware Traffic Scheduling and LaunchTime Enabled
 
+![Where are the labs](./labs.png)
+
 This sample application demonstrates the use of the Linux networking technology called taprio qdisc as a software implementation of Time Aware Shaper transmission gates, defined in IEEE 802.1Qbv. Refer to IEEE 802.1Qbv for a deeper understanding of:
 
 Time-aware shaper and the associated per-queue transmit window configuration (called gate control list)

@@ -11,6 +11,7 @@ through.
 * IEEE 802.1Qbv Demo 3 Scenario 1: Without Time-Aware Traffic Scheduling or LaunchTime
 * IEEE 802.1Qbv Demo 3 Scenario 2 Time-Aware Traffic Scheduling Enabled
 * IEEE 802.1Qbv Demo 3 Scenario 3 Time-Aware Traffic Scheduling and LaunchTime Enabled
+* OPC UA PubSub over TSN With Time-Aware Scheduling and LaunchTime Enabled
 
 ![Where are the labs](./labs.png)
 

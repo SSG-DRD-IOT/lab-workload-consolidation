@@ -78,6 +78,11 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **11:45-12:15pm** | Hardware Presentation from Aaeon                   |
 | **12:45-1:15pm**  | Lunch                                              |
 | **1:15-2:15pm**   | DevCloud Labs                                      |
+|                   |- Classification                                    |
+|                   |- Object Detection                                  |
+|                   |- Heterogeneous Compute                             |
+|                   |- Style Transfer                                    |
+|                   |- Saftey Gear Detection                             |
 | **2:15-3:00pm**   | Introduction to the Intel(r) Insights(TM) Platform |
 | **3:00-3:15pm**   | Intel(r) Insights(TM) Platform Lab                 |
 | **3:15-4:00pm**   | Questions and Closing                              |

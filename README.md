@@ -35,8 +35,7 @@ The links below will guide the workshop attendee through the slides, videos and 
     -   [Slides](./presentations/01-Intel-Developer-Program-and-Industrial-IoT-Strategy.pdf)
 
 -   **Case Studies for Real-Time Systems in Industry**
-    -   Slides - Placeholder
-    -   Labs - Placeholder
+    -  Slides - [Automation at Intel](./presentations/Intel-Automation.pdf)
 
 -   **Virtualization**
     -   [Presentation Slides](./presentations/02-Virtualization.pdf)
@@ -51,9 +50,11 @@ The links below will guide the workshop attendee through the slides, videos and 
     -  Lab - [Time-Aware Traffic Scheduling Enabled](./tsn_lab/README.md)
     -  Lab - [Time-Aware Traffic Scheduling and LaunchTime Enabled](./tsn_lab/README.md)
 
+    **NOTE:
+
 -   Industrial Protocols
     -   [Slides](./presentations/05-Industrial-Protocols.pdf)
-    -   [Lab - Placeholder](./tsn_lab/README.md)
+    -   Lab - [OPC UA PubSub over TSN With Time-Aware Scheduling and LaunchTime Enabled](./tsn_lab/opc_ua.md)
 
 #### Day 1 - Extra Resources
 - Introduction

@@ -73,24 +73,24 @@ The links below will guide the workshop attendee through the slides, videos and 
     - [Components of Linux Traffic Control](http://tldp.org/HOWTO/Traffic-Control-HOWTO/components.html)
 ## Schedule - Day 2
 
-|                   | May 1st                                            |
-| ----------------- | -------------------------------------------------- |
-| **8:30-9:00am**   | Doors Open for Badge Pickup                        |
-| **9:00-9:30am**   | Smart Video/Computer Vision Tools Overview         |
-| **9:30-10:15am**  | Training a Deep Learning Model                     |
-| **10:15-11:00am** | Object Detection Presentation                      |
-| **11:00-11:45am** | Object Detection DevCloud Demo                     |
-| **11:45-12:15pm** | Hardware Presentation from Aaeon                   |
-| **12:45-1:15pm**  | Lunch                                              |
-| **1:15-2:15pm**   | DevCloud Labs                                      |
-|                   |- Classification                                    |
-|                   |- Object Detection                                  |
-|                   |- Heterogeneous Compute                             |
-|                   |- Style Transfer                                    |
-|                   |- Saftey Gear Detection                             |
-| **2:15-3:00pm**   | Introduction to the Intel(r) Insights(TM) Platform |
-| **3:00-3:15pm**   | Intel(r) Insights(TM) Platform Lab                 |
-| **3:15-4:00pm**   | Questions and Closing                              |
+|                   | May 1st                                            |   |
+| ----------------- | -------------------------------------------------- |---|
+| **8:30-9:00am**   | Doors Open for Badge Pickup                        |   |
+| **9:00-9:30am**   | Smart Video/Computer Vision Tools Overview         |  [Slides](https://github.com/intel-iot-devkit/smart-video-workshop/blob/master/presentations/01-Introduction-to-Intel-Smart-Video-Tools.pdf)  |
+| **9:30-10:15am**  | Training a Deep Learning Model                     | [Slides](https://github.com/intel-iot-devkit/smart-video-workshop/presentations/DL_training_model.pdf) [Labs](https://github.com/intel-iot-devkit/smart-video-workshop/tree/master/dl-model-training)  |
+| **10:15-11:00am** | Object Detection Presentation                      |  [Slides](https://github.com/intel-iot-devkit/smart-video-workshop/blob/master/presentations/02-03_Basic-End-to-End-Object-Detection-Example.pdf) Labs on Devcloud  |
+| **11:00-11:45am** | Object Detection DevCloud Demo                     |   |
+| **11:45-12:15pm** | Hardware Presentation from Aaeon                   | [Slides](AAEON_AI_Edge_Intel_Workshop_20190404.pdf)  |
+| **12:45-1:15pm**  | Lunch                                              |   |
+| **1:15-2:15pm**   | DevCloud Labs                                      |  [Slides](./presentation/IoT-DevCloud-Intro.pdf) [Labs](https://github.com/intel-iot-devkit/iot-devcloud/tree/master/Tutorials) [Labs](https://github.com/intel-iot-devkit/iot-devcloud/tree/master/python) |
+|                   |- Classification                                    |   |
+|                   |- Object Detection                                  |   |
+|                   |- Heterogeneous Compute                             |   |
+|                   |- Style Transfer                                    |   |
+|                   |- Saftey Gear Detection                             |   |
+| **2:15-3:00pm**   | Introduction to the Intel(r) Insights(TM) Platform |   |
+| **3:00-3:15pm**   | Intel(r) Insights(TM) Platform Lab                 |   |
+| **3:15-4:00pm**   | Questions and Closing                              |   |
 
 #### May 1st - Day 2
 

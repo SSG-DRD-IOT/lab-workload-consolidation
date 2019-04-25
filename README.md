@@ -69,6 +69,8 @@ The links below will guide the workshop attendee through the slides, videos and 
       -   [Intel® VMDq Technology: An Overview](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/vmdq-technology-paper.pdf)
 -   Resources
     -   [Virtual Machine Device Queues](https://www.intel.com/content/www/us/en/ethernet-products/converged-network-adapters/io-acceleration-technology-vmdq.html)
+    - [Intel(r) Ethernet Controller i210 FAQ](https://www.intel.com/content/dam/www/public/us/en/documents/faqs/ethernet-controller-i210-i211-faq.pdf)
+    - [Components of Linux Traffic Control](http://tldp.org/HOWTO/Traffic-Control-HOWTO/components.html)
 ## Schedule - Day 2
 
 |                   | May 1st                                            |

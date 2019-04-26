@@ -16,15 +16,16 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **9:00-9:30am**   | Intel Developer Program for Industrial Automation  |[Slides](./presentations/01-Intel-Developer-Program-and-Industrial-IoT-Strategy.pdf) |
 | **9:30-10:00am**  | Case Studies for Real-Time Systems in Industry     |[Slides](./presentations/Intel-Automation.pdf)|
 | **10:00-10:15am** | Break                                              |
-| **10:15-11:00am** | Real-Time Operating Systems                        |[Slides](./presentations/03-Real-Time-Systems.pdf)|
-| **11:00-12:00pm** | Real-Time Operating Systems Labs                   | [Lab](https://github.com/SSG-DRD-IOT/real-time-lab)|
+| **10:15-10:40am** | Virtualization                                     |[Slides](./presentations/02-Virtualization.pdf)|
+| **10:40-11:15am** | Real-Time Operating Systems                        |[Slides](./presentations/03-Real-Time-Systems.pdf)|
+| **11:15-12:00pm** | Real-Time Operating Systems Labs                   | [Lab](https://github.com/SSG-DRD-IOT/real-time-lab)|
 | **12:00-1:00pm**  | Lunch                                              |
 | **1:00-1:30pm**   | Real-Time Networking and Time Sensitive Networking |[Slides](./presentations/04-Time-Sensitive-Networking.pdf)|
 | **1:00-2:00pm**   | Real-Time Networking Labs                          |[Lab](./tsn_lab/README.md) [Lab](./tsn_lab/README.md) [Lab](./tsn_lab/README.md)
 | **2:00-2:30pm**   | Industrial Protocols                               |[Slides](./presentations/05-Industrial-Protocols.pdf) |
 | **2:00-2:15pm**   | Break                                              |
 | **2:15-3:30pm**   | OPC-UA over TSN Lab                                |[Lab](./tsn_lab/opc_ua.md)
-| **3:15-3:30pm** | High Level System Review                           |
+| **3:15-3:30pm**   | High Level System Review                           |
 | **3:30-4:00pm**   | Questions and Answers                              |
 | **4:00-4:30pm**   | Closing                                            |
 

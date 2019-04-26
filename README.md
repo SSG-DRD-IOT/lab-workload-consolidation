@@ -51,8 +51,6 @@ The links below will guide the workshop attendee through the slides, videos and 
     -  Lab - [Time-Aware Traffic Scheduling Enabled](./tsn_lab/README.md)
     -  Lab - [Time-Aware Traffic Scheduling and LaunchTime Enabled](./tsn_lab/README.md)
 
-    **NOTE:
-
 -   Industrial Protocols
     -   [Slides](./presentations/05-Industrial-Protocols.pdf)
     -   Lab - [OPC UA PubSub over TSN With Time-Aware Scheduling and LaunchTime Enabled](./tsn_lab/opc_ua.md)

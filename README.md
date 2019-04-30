@@ -56,8 +56,8 @@ The links below will guide the workshop attendee through the slides, videos and 
     -   Lab - [OPC UA PubSub over TSN With Time-Aware Scheduling and LaunchTime Enabled](./tsn_lab/opc_ua.md)
     
     -   **Introduction to the Insights Platform**
-    -   Slides - Placeholder
-    -   Lab - Placeholder
+    -   [Slides](./presentations/insights%20stack%20presentation.pdf)
+   
 
 #### Day 1 - Extra Resources
 - Introduction

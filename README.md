@@ -54,6 +54,10 @@ The links below will guide the workshop attendee through the slides, videos and 
 -   Industrial Protocols
     -   [Slides](./presentations/05-Industrial-Protocols.pdf)
     -   Lab - [OPC UA PubSub over TSN With Time-Aware Scheduling and LaunchTime Enabled](./tsn_lab/opc_ua.md)
+    
+    -   **Introduction to the Insights Platform**
+    -   Slides - Placeholder
+    -   Lab - Placeholder
 
 #### Day 1 - Extra Resources
 - Introduction
@@ -112,9 +116,6 @@ The links below will guide the workshop attendee through the slides, videos and 
     -   Lab - [Lab: Tutorials (Classification, Object Detection, Style-Transfer)](https://github.com/intel-iot-devkit/iot-devcloud/tree/master/Tutorials)
     -   Lab: [Object Detection, Safety Gear Detection](https://github.com/intel-iot-devkit/iot-devcloud/tree/master/python)
 
--   **Introduction to the Insights Platform**
-    -   Slides - Placeholder
-    -   Lab - Placeholder
 <!--
   * **Hardware Heterogeneity**
     - Lab - [Hardware Heterogeneity](https://github.com/intel-iot-devkit/smart-video-workshop/hardware-heterogeneity/README.md)

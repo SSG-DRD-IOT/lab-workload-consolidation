@@ -55,7 +55,7 @@ The links below will guide the workshop attendee through the slides, videos and 
     -   [Slides](./presentations/05-Industrial-Protocols.pdf)
     -   Lab - [OPC UA PubSub over TSN With Time-Aware Scheduling and LaunchTime Enabled](./tsn_lab/opc_ua.md)
     
-    -   **Introduction to the Insights Platform**
+-   Introduction to the Insights Platform
     -   [Slides](./presentations/insights%20stack%20presentation.pdf)
    
 
